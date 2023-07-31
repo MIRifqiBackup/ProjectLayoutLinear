@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectLayoutLinear</string>
+    <string name="namaTextView">Miftakhul Ilman Rifqi</string>
+    <string name="namaButton">TEKAN</string>
+</resources>
